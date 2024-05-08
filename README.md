@@ -2,7 +2,9 @@
 - 👀 I’m interested in ..in technology
 - 🌱 I’m currently learning ...cloud engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...henryogholi@yahoo.com,07026336285
+- 📫 How to reach me ...henryogholi@yahoo.com,07026336285, 08052959511
+- X @amopomulero
+-f.b Henry othuke ogholi
 
 <!---
 henrolar4ever/henrolar4ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
